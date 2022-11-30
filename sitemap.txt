@@ -1,8 +1,8 @@
+http://example.com/about/index.html
 http://example.com/2022/11/30/hello-world/
 http://example.com/categories/index.html
 http://example.com/tags/index.html
 http://example.com/contact/index.html
-http://example.com/about/index.html
 http://example.com/
 http://example.com/tags/hexo/
 http://example.com/categories/hexo%E7%AE%A1%E7%90%86%E6%96%B9%E6%B3%95/
