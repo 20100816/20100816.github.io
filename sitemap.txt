@@ -1,8 +1,14 @@
+http://example.com/2022/12/01/2048-xiao-you-xi/
 http://example.com/2022/11/30/hello-world/
 http://example.com/about/index.html
 http://example.com/categories/index.html
 http://example.com/tags/index.html
 http://example.com/contact/index.html
 http://example.com/
+http://example.com/tags/2048/
+http://example.com/tags/%E5%B0%8F%E6%B8%B8%E6%88%8F/
+http://example.com/tags/c/
 http://example.com/tags/hexo/
+http://example.com/categories/%E5%B0%8F%E6%B8%B8%E6%88%8F/
 http://example.com/categories/hexo%E7%AE%A1%E7%90%86%E6%96%B9%E6%B3%95/
+http://example.com/categories/%E5%B0%8F%E6%B8%B8%E6%88%8F/c/
