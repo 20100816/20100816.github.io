@@ -14,5 +14,5 @@ http://example.com/tags/%E5%B0%8F%E6%B8%B8%E6%88%8F/
 http://example.com/tags/c/
 http://example.com/tags/hexo/
 http://example.com/categories/%E5%B0%8F%E6%B8%B8%E6%88%8F/
-http://example.com/categories/hexo%E7%AE%A1%E7%90%86%E6%96%B9%E6%B3%95/
 http://example.com/categories/%E5%B0%8F%E6%B8%B8%E6%88%8F/c/
+http://example.com/categories/hexo%E7%AE%A1%E7%90%86%E6%96%B9%E6%B3%95/
