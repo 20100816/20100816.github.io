@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-01T11:51:11.986Z</updated>
+  <updated>2022-12-01T12:37:54.649Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>编程报错日志：[Error]</title>
+    <link href="http://example.com/2022/12/01/bian-cheng-bao-cuo-ri-zhi-error-error-this-file-requires-compiler-and-library-support-for-the-iso-c-2011-standard/"/>
+    <id>http://example.com/2022/12/01/bian-cheng-bao-cuo-ri-zhi-error-error-this-file-requires-compiler-and-library-support-for-the-iso-c-2011-standard/</id>
+    <published>2022-12-01T12:30:01.000Z</published>
+    <updated>2022-12-01T12:37:54.649Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="报错日志" scheme="http://example.com/categories/%E6%8A%A5%E9%94%99%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="c++" scheme="http://example.com/tags/c/"/>
+    
+    <category term="报错日志" scheme="http://example.com/tags/%E6%8A%A5%E9%94%99%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
   
   <entry>
     <title>2048小游戏</title>

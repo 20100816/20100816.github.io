@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>编程报错日志：[Error]</title>
+      <link href="/2022/12/01/bian-cheng-bao-cuo-ri-zhi-error-error-this-file-requires-compiler-and-library-support-for-the-iso-c-2011-standard/"/>
+      <url>/2022/12/01/bian-cheng-bao-cuo-ri-zhi-error-error-this-file-requires-compiler-and-library-support-for-the-iso-c-2011-standard/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>​<br>  最近，我在学习原子锁。在尝试时遇到了如下问题。</p><p>环境：Windows 10</p><p>编程软件：Dev-c++</p><p>代码：</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;atomic&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;time.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function">atomic&lt;<span class="type">int</span>&gt; <span class="title">i</span><span class="params">(<span class="number">1</span>)</span></span>;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    cout&lt;&lt;i;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>如此平平无奇的代码，却引发了很多的错误。<br>​<br> 原因：主要是因为dev-c++没有添加c++11标准</p><p>改正方法：在工具 -&gt; 编译器 中的<strong>在编译时加入以下命令：</strong>选项勾选并在框中添加 -std&#x3D;c++11</p><p>在学习编程的路上还要多多积累经验啊！ </p><p>​<br>​</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 报错日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c++ </tag>
+            
+            <tag> 报错日志 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2048小游戏</title>
       <link href="/2022/12/01/2048-xiao-you-xi/"/>
       <url>/2022/12/01/2048-xiao-you-xi/</url>
