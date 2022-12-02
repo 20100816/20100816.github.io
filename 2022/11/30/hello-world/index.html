@@ -186,14 +186,14 @@ if (true) {
 function loadGitalk () {
   function initGitalk () {
     var gitalk = new Gitalk(Object.assign({
-      clientID: 'f237a125123be343b0e1',
-      clientSecret: 'a6e4a617c3870514f069144f3ecb99ec831f92f3',
-      repo: '20100816/p',
-      owner: '',
-      admin: ['20100816'],
+      clientID: '',
+      clientSecret: '',
+      repo: 'p // 评论仓库名',
+      owner: '20100816',
+      admin: ['20100816 //管理人'],
       id: '92c2e5f0f5eb370f1df3839807c881bc',
       updateCountCallback: commentCount
-    },20100816))
+    },))
 
     gitalk.render('gitalk-container')
   }
