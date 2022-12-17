@@ -1,4 +1,5 @@
 http://example.com/2022/12/16/yuan-dan-kuai-le/
+http://example.com/2022/12/17/sai-che-xiao-you-xi/
 http://example.com/html/index.html
 http://example.com/messageboard/index.html
 http://example.com/about/index.html
@@ -16,10 +17,11 @@ http://example.com/tags/2048/
 http://example.com/tags/%E5%B0%8F%E6%B8%B8%E6%88%8F/
 http://example.com/tags/c/
 http://example.com/tags/hexo/
-http://example.com/tags/%E6%8A%A5%E9%94%99%E6%97%A5%E5%BF%97/
 http://example.com/tags/%E5%BA%86%E7%A5%9D%E9%A1%B5%E9%9D%A2/
+http://example.com/tags/%E6%8A%A5%E9%94%99%E6%97%A5%E5%BF%97/
+http://example.com/tags/%E5%B0%8F%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86/
 http://example.com/categories/%E5%B0%8F%E6%B8%B8%E6%88%8F/
-http://example.com/categories/%E5%B0%8F%E6%B8%B8%E6%88%8F/c/
 http://example.com/categories/hexo%E7%AE%A1%E7%90%86%E6%96%B9%E6%B3%95/
-http://example.com/categories/%E6%8A%A5%E9%94%99%E6%97%A5%E5%BF%97/
 http://example.com/categories/%E5%85%83%E6%97%A6/
+http://example.com/categories/%E6%8A%A5%E9%94%99%E6%97%A5%E5%BF%97/
+http://example.com/categories/%E5%B0%8F%E6%B8%B8%E6%88%8F/c/
