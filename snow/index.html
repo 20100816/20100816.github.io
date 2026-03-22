@@ -1,1 +1,39 @@
-<!doctype html><html lang=""><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="/favicon.ico"><title>birthday</title><script defer="defer" src="/js/chunk-vendors.4f9b9a79.js"></script><script defer="defer" src="/js/app.0ba19932.js"></script><link href="/css/app.2c672a7c.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but birthday doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div></body></html>
+<!doctype html>
+<html lang="zh-CN"> <!-- 补充语言标识，优化兼容性 -->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="icon" href="./favicon.ico"> <!-- 相对路径：指向 snow/favicon.ico -->
+  <title>birthday</title>
+  <!-- 相对路径：指向 snow/js/ 目录 -->
+  <script defer="defer" src="./js/chunk-vendors.4f9b9a79.js"></script>
+  <script defer="defer" src="./js/app.0ba19932.js"></script>
+  <!-- 相对路径：指向 snow/css/ 目录 -->
+  <link href="./css/app.2c672a7c.css" rel="stylesheet">
+</head>
+<body>
+  <noscript>
+    <strong>请启用JavaScript以正常访问该页面</strong> <!-- 中文提示更友好 -->
+  </noscript>
+  <div id="app"></div>
+</body>
+</html>
+<style>
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  /* 背景图 */
+  background-image: url("./background.jpg");
+  /* 铺满屏幕 */
+  background-size: cover;
+  /* 固定不滚动 */
+  background-attachment: fixed;
+  /* 居中 */
+  background-position: center center;
+  /* 不重复 */
+  background-repeat: no-repeat;
+}
+</style>
